@@ -1,4 +1,4 @@
-### Hello comrade
+### Hello EveryOne!
 <div align="center">
   <!-- Typing 打字特效 -->
   <h1 align="center">
