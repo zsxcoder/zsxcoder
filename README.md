@@ -3,7 +3,7 @@
   <!-- Typing 打字特效 -->
   <h1 align="center">
     <a href="https://blog.zsx815.top/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello！%20--%20我是钟神秀;我在这里分享我的生活记录、踩坑教程和资源分享！;&center=true&size=27">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello！%20--%20我是钟神秀;造化钟神秀,阴阳割昏晓！;&center=true&size=27">
     </a>
   </h1>
 </div>
