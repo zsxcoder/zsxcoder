@@ -11,11 +11,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [关于github-issues当做动态的想法](https://blog.zsx815.top/posts/github-issues-comment/)
-- [Hexo备忘](https://blog.zsx815.top/posts/hexo-beiwang/)
-- [Markdown 强调语法](https://blog.zsx815.top/posts/markdown-qiangdiao/)
-- [Markdown 段落语法](https://blog.zsx815.top/posts/markdown-duanluo/)
-- [Markdown 换行语法](https://blog.zsx815.top/posts/markdown-huanhang/)
+- [关于github-issues当做动态的想法](https://blog.zsx915.top/posts/github-issues-comment/)
+- [Hexo备忘](https://blog.zsx915.top/posts/hexo-beiwang/)
+- [Markdown 强调语法](https://blog.zsx915.top/posts/markdown-qiangdiao/)
+- [Markdown 段落语法](https://blog.zsx915.top/posts/markdown-duanluo/)
+- [Markdown 换行语法](https://blog.zsx915.top/posts/markdown-huanhang/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>&nbsp;</div>
