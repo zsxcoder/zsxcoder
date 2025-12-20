@@ -11,11 +11,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [给博客加一个外链安全中转页（/go）](https://blog.mcyzsx.top/2025/go-safe)
-- [关于github-issues当做动态的想法](https://blog.mcyzsx.top/2025/github-issues-moment)
-- [Hexo备忘](https://blog.mcyzsx.top/2025/hexo-beiwang)
-- [Markdown 强调语法](https://blog.mcyzsx.top/2025/markdown-qiangdiaoyufa)
-- [Markdown 换行语法](https://blog.mcyzsx.top/2025/markdowm-huanhang)
+- [给博客加一个外链安全中转页（/go）](https://blog.zsxcoder.top/2025/go-safe)
+- [关于github-issues当做动态的想法](https://blog.zsxcoder.top/2025/github-issues-moment)
+- [Hexo备忘](https://blog.zsxcoder.top/2025/hexo-beiwang)
+- [Markdown 强调语法](https://blog.zsxcoder.top/2025/markdown-qiangdiaoyufa)
+- [Markdown 换行语法](https://blog.zsxcoder.top/2025/markdowm-huanhang)
 <!-- BLOG-POST-LIST:END -->
 
 <div>&nbsp;</div>
